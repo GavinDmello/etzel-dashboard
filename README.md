@@ -2,12 +2,13 @@
 
 Dashboard for etzel server.
 
-* **Ping -Pong with the server:** Lots of people use React as the V in MVC. Since React makes no assumptions about the rest of your technology stack, it's easy to try it out on a small feature in an existing project.
-* **Get data from the server:** React abstracts away the DOM from you, giving a simpler programming model and better performance. React can also render on the server using Node, and it can power native apps using [React Native](https://facebook.github.io/react-native/).
-* **push Data to the server:** React implements one-way reactive data flow which reduces boilerplate and is easier to reason about than traditional data binding.
+* **Ping -Pong with the server:** Basic ping pong with the server.
+* **Authentication with the server:** Basic Authentication system.
+* **Get data from the server:** Get some data from the queue and display it.
 
-* **Graphically show the amount of data in the queue:** React implements one-way reactive data flow which reduces boilerplate and is easier to reason about than traditional data binding.
+* **push data to the server:** push some data to the queue.
+* **Graphically show the amount of data in the queue:**Use charts.js and animate the amount of data present.
 
-* **Show the projects,queues:** React implements one-way reactive data flow which reduces boilerplate and is easier to reason about than traditional data binding.
-* **Delete the queue:** React implements one-way reactive data flow which reduces boilerplate and is easier to reason about than traditional data binding.
-* **Purge the queue:** React implements one-way reactive data flow which reduces boilerplate and is easier to reason about than traditional data binding.
+* **Show the projects,queues:** Show how many projects the user is subscribed to.
+* **Delete the queue:** Delete the queue interactively
+* **Purge the queue:** Delete the contents of the queue
